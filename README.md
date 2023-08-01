@@ -106,6 +106,6 @@ Now, go to the original repository on GitHub and create a pull request from your
 
 ## Copyright
 
-Created by team Web3 Sailors for HackaTRON..
+Created by team Web3 Sailors for HackaTRON || All rights reserved by Web3 Sailors
 
-All rights reserved by Web3 Sailors.  
+![logo](logo/logo-transparent-png.png)
