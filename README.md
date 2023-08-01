@@ -1,25 +1,19 @@
 # AstralDuelists
 
-Theme no 3: Artistry
+Theme no 3: 🎯Artistry
 
 Idea: Blockchain-Based Collectible Card Game (CCG)
 
-
 We will create a decentralized Collectible Card Game (CCG) that utilizes blockchain technology for NFT-based cards and in-game assets. Players can collect, trade, and battle with unique digital cards, each represented as an NFT..
 
-
-
-
-
-## Features
+## ✨Features
 
 - User Registration & Authentication
 - Card Minting & Trading.
 - Battles between player's cards.
 - Leaderboard
 
-
-## Run Locally
+## 🚀Run Locally
 
 Clone the project
 
@@ -45,8 +39,7 @@ Start the server
   npm run dev
 ```
 
-
-## Contributing
+## 👨‍💻Contributing
 
 Contributions are always welcome!
 
@@ -87,25 +80,15 @@ Push the changes to your forked repository
 ```bash
 git push origin master
 ```
+
 - Step 3: Create a pull request on the original repository
 
-Now, go to the original repository on GitHub and create a pull request from your forked repository. 
+Now, go to the original repository on GitHub and create a pull request from your forked repository.
 
-
-
-
-
-
-
-
-
-## Documentation
+## 📝Documentation
 
 [React+Typescript](https://react-typescript-cheatsheet.netlify.app/)
 
-
 ## Copyright
 
-Created by team Web3 Sailors for HackaTRON..
-
-All rights reserved by Web3 Sailors.  
+Created for [HackaTRON](https://trondao.org/hackatron/) | Copyright © Web3 Sailors.
