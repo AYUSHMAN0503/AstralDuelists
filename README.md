@@ -9,8 +9,8 @@ We will create a decentralized Collectible Card Game (CCG) that utilizes blockch
 ## ✨Features
 
 - User Registration & Authentication
-- Card Minting & Trading.
 - Battles between player's cards.
+- Card Minting & Trading.
 - Leaderboard
 
 ## 🚀Run Locally
@@ -89,9 +89,10 @@ Now, go to the original repository on GitHub and create a pull request from your
 
 [React+Typescript](https://react-typescript-cheatsheet.netlify.app/)
 
+
 ## Copyright
 
-Created by team Web3 Sailors for HackaTRON || All rights reserved by Web3 Sailors
+Created by team Web3 Sailors for HackaTRON 5.0 || All rights reserved by Web3 Sailors
 
 
 Created for [HackaTRON](https://trondao.org/hackatron/) | Copyright © Web3 Sailors.
