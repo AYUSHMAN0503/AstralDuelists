@@ -1,5 +1,8 @@
 # AstralDuelists
 
+![logo](logo/Picsart_23-08-02_14-55-53-636.jpg)
+
+
 Theme no 3: 🎯Artistry
 
 Idea: Blockchain-Based Collectible Card Game (CCG)
