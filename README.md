@@ -1,6 +1,6 @@
 # AstralDuelists
 
-![logo](logo/AstralDuelists-logo.png.png)
+![logo](logo/AstralDuelists_logo.png)
 
 Theme no 3: 🎯Artistry
 
