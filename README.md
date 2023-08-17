@@ -1,7 +1,6 @@
 # AstralDuelists
 
-![logo](logo/1000054420-transformed%20(1).png)
-
+![logo](logo/AstralDuelists_logo.png)
 
 Theme no 3: 🎯Artistry
 
@@ -92,13 +91,10 @@ Now, go to the original repository on GitHub and create a pull request from your
 
 [React+Typescript](https://react-typescript-cheatsheet.netlify.app/)
 
-
 ## Copyright
 
 Created by team Web3 Sailors for HackaTRON 5.0 || All rights reserved by Web3 Sailors
 
-
 Created for [HackaTRON](https://trondao.org/hackatron/) | Copyright © Web3 Sailors.
-
 
 ![logo](logo/logo-transparent-png.png)
