@@ -87,10 +87,6 @@ git push origin master
 
 Now, go to the original repository on GitHub and create a pull request from your forked repository.
 
-## 📝Documentation
-
-[React+Typescript](https://react-typescript-cheatsheet.netlify.app/)
-
 ## Copyright
 
 Created by team Web3 Sailors for HackaTRON 5.0 || All rights reserved by Web3 Sailors
