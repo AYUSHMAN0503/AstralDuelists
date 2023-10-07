@@ -5,9 +5,6 @@
 Theme no 3: 🎯Artistry
 
 Idea: Blockchain-Based Collectible Card Game (CCG)
-
-We will create a decentralized Collectible Card Game (CCG) that utilizes blockchain technology for NFT-based cards and in-game assets. Players can collect, trade, and battle with unique digital cards, each represented as an NFT..
-
 ## ✨Features
 
 - User Registration & Authentication
